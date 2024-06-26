@@ -1,0 +1,19 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+span{
+  padding: 10px;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+img{
+  height: 50px;
+  width: 50px;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(89, 86, 92);
+}
